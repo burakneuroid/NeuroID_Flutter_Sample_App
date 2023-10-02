@@ -1,0 +1,11 @@
+framework module NeuroID {
+  umbrella header "NeuroID.h"
+
+  export *
+  module * { export * }
+}
+
+module NeuroID.Swift {
+  header "NeuroID-Swift.h"
+  requires objc
+}

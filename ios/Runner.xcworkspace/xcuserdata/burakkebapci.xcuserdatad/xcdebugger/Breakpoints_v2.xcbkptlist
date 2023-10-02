@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "E8842B28-F219-48E3-A851-594DFF577E73"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FC02B05-2E8F-4865-8DFC-0A1D46335C48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Runner/Components/News/NeuroIdViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6A07D1CF-DEF5-46A2-AB3C-5C7A95BF6805"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Runner/Components/News/NeuroIdCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6A07D1CF-DEF5-46A2-AB3C-5C7A95BF6805 - af08530e7912211c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Runner.NeuroIdCoordinator.start() -&gt; ()"
+                  moduleName = "Runner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/Flutter-withCoordinator-Pattern-master/ios/Runner/Components/News/NeuroIdCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "6A07D1CF-DEF5-46A2-AB3C-5C7A95BF6805 - af08530e7912213f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Runner.NeuroIdCoordinator.start() -&gt; ()"
+                  moduleName = "Runner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/Flutter-withCoordinator-Pattern-master/ios/Runner/Components/News/NeuroIdCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BCBD0096-92A7-40A9-A547-1D57F998560D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Runner/Components/Flutter/FlutterCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C70177E4-9B81-47A7-824A-7DFBF9906937"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Runner/Components/App/AppCoordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "start()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C70177E4-9B81-47A7-824A-7DFBF9906937 - b30d80da5ba88a77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Runner.AppCoordinator.start() -&gt; ()"
+                  moduleName = "Runner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/Flutter-withCoordinator-Pattern-master/ios/Runner/Components/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "C70177E4-9B81-47A7-824A-7DFBF9906937 - b30d80da5ba88a77"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Runner.AppCoordinator.start() -&gt; ()"
+                  moduleName = "Runner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/burakkebapci/Desktop/Flutter-withCoordinator-Pattern-master/ios/Runner/Components/App/AppCoordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
